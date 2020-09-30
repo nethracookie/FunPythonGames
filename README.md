@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-Play a fun classic game of Rock Paper Scissors against your computer.
+# Fun games with python
+Play a fun classic games with python against your computer.
