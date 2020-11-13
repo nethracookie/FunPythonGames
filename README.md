@@ -1,3 +1,3 @@
 # nethracookie
 
-Final testing PR
+Play fun, classic, python games with your computer.
